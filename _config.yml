@@ -1,14 +1,12 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: De panes, perros y mapas
+email: clauavila.sch@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  A blog about random things that I like. Mostly sourdough bread, maps stuff and some dogs photos. 
+  Just learnign how towork my way in GitHub.
 
 # social links
-twitter_username: your-twitter-handle
-github_username:  your-github-handle
+twitter_username: @clauavilas
+github_username: clauavila
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 

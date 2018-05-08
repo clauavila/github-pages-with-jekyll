@@ -1,3 +1,9 @@
+---
+title: "De panes, perros y mapas"
+date: 2018-05-08
+---
+
+
 # First blog entry
 ## This text is just a proof 
 La demanda por nuevos territorios para la producción de bienes primarios. La 
